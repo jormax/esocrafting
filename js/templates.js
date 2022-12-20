@@ -181,7 +181,145 @@ var templates = [
           }
   
          ]
-      }
+      },
+      {
+        "Name": "新手練等(法系)",
+        "Items":
+        [
+           
+            {
+              "Type": "Armor",
+              "Item": "重型重盔",
+              "Trait": "訓練Training",
+              "Set": "Heartland Conqueror"
+            },
+            {
+              "Type": "Armor",
+              "Item": "中型上衣",
+              "Trait": "訓練Training",
+              "Set": "Heartland Conqueror"
+            },
+            
+            {
+              "Type": "Armor",
+              "Item": "中型護腿",
+              "Trait": "訓練Training",
+              "Set": "Adept Rider"
+            },
+            {
+              "Type": "Armor",
+              "Item": "中型護肩",
+              "Trait": "訓練Training",
+              "Set": "Adept Rider"
+            },
+            {
+              "Type": "Armor",
+              "Item": "輕型飾帶",
+              "Trait": "訓練Training",
+              "Set": "Adept Rider"
+            },
+            {
+              "Type": "Armor",
+              "Item": "輕型手套",
+              "Trait": "訓練Training",
+              "Set": "Adept Rider"
+            },
+            {
+              "Type": "Armor",
+              "Item": "輕型鞋",
+              "Trait": "訓練Training",
+              "Set": "Adept Rider"
+            },
+            {
+            "Type": "Jewelry",
+            "Item": "戒指",
+            "Trait": "奧術Arcane",
+            "Set": "Heartland Conqueror"
+            },
+            {
+            "Type": "Jewelry",
+            "Item": "戒指",
+            "Trait": "奧術Arcane",
+            "Set": "Heartland Conqueror"
+            },
+            {
+            "Type": "Jewelry",
+            "Item": "項鍊",
+            "Trait": "奧術Arcane",
+            "Set": "Heartland Conqueror"
+            },
+    
+           ]
+        },
+        {
+          "Name": "新手練等(耐系)",
+          "Items":
+          [
+             
+              {
+                "Type": "Armor",
+                "Item": "重型重盔",
+                "Trait": "訓練Training",
+                "Set": "Heartland Conqueror"
+              },
+              {
+                "Type": "Armor",
+                "Item": "中型上衣",
+                "Trait": "訓練Training",
+                "Set": "Heartland Conqueror"
+              },
+              
+              {
+                "Type": "Armor",
+                "Item": "中型護腿",
+                "Trait": "訓練Training",
+                "Set": "Adept Rider"
+              },
+              {
+                "Type": "Armor",
+                "Item": "中型護肩",
+                "Trait": "訓練Training",
+                "Set": "Adept Rider"
+              },
+              {
+                "Type": "Armor",
+                "Item": "輕型飾帶",
+                "Trait": "訓練Training",
+                "Set": "Adept Rider"
+              },
+              {
+                "Type": "Armor",
+                "Item": "輕型手套",
+                "Trait": "訓練Training",
+                "Set": "Adept Rider"
+              },
+              {
+                "Type": "Armor",
+                "Item": "輕型鞋",
+                "Trait": "訓練Training",
+                "Set": "Adept Rider"
+              },
+              {
+              "Type": "Jewelry",
+              "Item": "戒指",
+              "Trait": "強壯Robust",
+              "Set": "Heartland Conqueror"
+              },
+              {
+              "Type": "Jewelry",
+              "Item": "戒指",
+              "Trait": "強壯Robust",
+              "Set": "Heartland Conqueror"
+              },
+              {
+              "Type": "Jewelry",
+              "Item": "項鍊",
+              "Trait": "強壯Robust",
+              "Set": "Heartland Conqueror"
+              },
+      
+             ]
+          }
 ];
 
 
