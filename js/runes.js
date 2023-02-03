@@ -642,35 +642,35 @@ var enchantAspect = [
     "Lvl": 1,
     "Translation": "Base",
     "Effect": "Produces Base quality items",
-    "Improvement":"普通Normal"
+    "Improvement":"普通"
   },
   {
     "Name": "Jejota",
     "Lvl": 1,
     "Translation": "Fine",
     "Effect": "Produces Fine quality items",
-    "Improvement":"優秀Fine"
+    "Improvement":"優秀"
   },
   {
     "Name": "Denata",
     "Lvl": 2,
     "Translation": "Superior",
     "Effect": "Produces Superior quality items",
-    "Improvement":"上乘Superior"
+    "Improvement":"上乘"
   },
   {
     "Name": "Rekuta",
     "Lvl": 3,
     "Translation": "Artifact",
     "Effect": "Produces Epic quality items",
-    "Improvement":"史詩Epic"
+    "Improvement":"史詩"
   },
   {
     "Name": "Kuta",
     "Lvl": 4,
     "Translation": "Legendary",
     "Effect": "Produces Legendary quality items",
-    "Improvement":"傳說Legendary"
+    "Improvement":"傳說"
   }
 ];
   
